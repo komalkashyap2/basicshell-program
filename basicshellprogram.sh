@@ -1,3 +1,3 @@
 #!/bin/bash -x
 
-echo "komal"
+echo "hello komal"
